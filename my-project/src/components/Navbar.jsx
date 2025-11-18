@@ -1,7 +1,7 @@
 function Navbar(){
     return(
         <>
-            <nav class="fixed top-0 left-0 w-full z-50 bg-green-600">
+            <nav class="fixed top-0 left-0 w-full z-50 bg-blue-600">
                 <div class="max-w-6xl mx-auto flex justify-between items-center">
                     {/* <img class="h-30 w-40 object-cover" src="media/rangzaar.jpg" alt=""/> */}
                         <ul class="hidden md:flex justify-between">
